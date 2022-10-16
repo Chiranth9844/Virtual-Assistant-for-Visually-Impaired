@@ -12,3 +12,5 @@ It can read out notifications from mobile and as a further application respond t
 Add ons
 
 It serves the basic features of a chat bot i.e. responds to question including time, lighting conditions, basic wh questions, etc.
+
+**In order to run this program, create a project id in google cloud and activate service account and generate key, that is json file in this project and add that json file in the project folder. Change the project id and json file name in the project according to your project.**
